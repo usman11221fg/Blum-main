@@ -16,7 +16,7 @@ cp .env-example .env
 nano .env
 ```
 ```
-data.txt
+nano data.txt
 ```
 
 ```
