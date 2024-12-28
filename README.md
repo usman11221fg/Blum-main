@@ -10,6 +10,9 @@ pkg install python nodejs rust git -y
 git clone https://github.com/zainarain279/Blum-main.git
 ```
 ```
+cd Blum-main
+```
+```
 cp .env-example .env
 ```
 ```
