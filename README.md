@@ -21,10 +21,6 @@ nano .env
 ```
 nano data.txt
 ```
-
-```
-cd Blum
-```
 ```
 pip install -r requirements.txt
 ```
