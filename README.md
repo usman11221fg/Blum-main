@@ -1,4 +1,4 @@
-
+## Blum Script 
 # Termux manual installation
 ```
  pkg update && pkg upgrade -y
@@ -7,7 +7,7 @@
 pkg install python nodejs rust git -y
 ```
 ```
-git clone https://github.com/vanhbakaa/Blum.git
+git clone https://github.com/zainarain279/Blum-main.git
 ```
 ```
 cp .env-example .env
